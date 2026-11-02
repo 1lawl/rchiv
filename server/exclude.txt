@@ -1,0 +1,5 @@
+# Listings whose title contains any of these words are hidden completely.
+# One word per line.
+ステッカー
+ノベルティ
+ショッパー

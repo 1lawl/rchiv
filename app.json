@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "rchiv",
+    "name": "rChiv",
     "slug": "rchiv",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -20,11 +20,16 @@
       "predictiveBackGestureEnabled": false
     },
     "web": {
-      "output": "server",
+      "output": "single",
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
-      "expo-router",
+      [
+        "expo-router",
+        {
+          "asyncRoutes": false
+        }
+      ],
       [
         "expo-splash-screen",
         {

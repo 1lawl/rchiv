@@ -1,0 +1,12 @@
+# Finder Japan brand list. Same format as jpbot's brands.txt:
+#   English | 日本語 [| more Japanese] | also: ALIAS, ALIAS
+# Prefix a line with  off:  to pause it, or  fav:  to mark a favourite.
+# Swap in your own jpbot brands.txt and it will just work.
+fav: IfSixWasNine | イフシックスワズナイン | also: IFSIXWASNINE, if six was nine
+fav: 14th Addiction | フォーティーンスアディクション | also: 14TH ADDICTION
+L.G.B. | ルグランブルー | also: LGB, Le Grande Bleu
+Kapital | キャピタル | also: KAPITAL
+Number (N)ine | ナンバーナイン | also: NUMBER NINE, NUMBER (N)INE
+Hysteric Glamour | ヒステリックグラマー | also: HYSTERIC GLAMOUR
+Undercover | アンダーカバー | also: UNDERCOVER
+off: Kmrii | ケムリ | also: KMRII
